@@ -10,7 +10,7 @@ https://github.com/zhangying-njust/CLSM6A/tree/master/models
 ## (III)CLSM6A _sequences_prediction.py
 It is the Python file for the implementation of multi-sequence prediction.
 
-## (IV) CLSM6A _sequence_ analysis.py
+## (IV) CLSM6A _sequence_analysis.py
 It is a python file for single-sequence prediction and analysis.
 
 ## (V) Contact
